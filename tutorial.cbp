@@ -32,7 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="chat.cpp" />
+		<Unit filename="chat.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="main.h" />
+		<Unit filename="src\User.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />

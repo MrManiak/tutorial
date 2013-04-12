@@ -13,8 +13,8 @@ int main()
     system("color 0a");//Vert sur fond noir
     string username("BillJones");//Nom par défaut
     string password("pswd");//Pas de password par défaut
-    string passwordRight("seminaire");
-    string passwordAdmin("fabfab32");//Le bon password
+    string passwordRight("seminaire");//Le pass normal
+    string passwordAdmin("fabfab32");//Le pass d'admin
     bool loggedIn(false);
     int menuSelect(0);
     vector<string> onlineUsers;
