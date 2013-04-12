@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1365726037 source:c:\users\arimaniac\documents\github\tutorial\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"windows.h"
+	"main.h"
+
+1365726361 source:c:\users\arimaniac\documents\github\tutorial\chat.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"windows.h"
+	"chat.h"
+
+1365726037 c:\users\arimaniac\documents\github\tutorial\main.h
+
+1365726332 c:\users\arimaniac\documents\github\tutorial\chat.h
+
